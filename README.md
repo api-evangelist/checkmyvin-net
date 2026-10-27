@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CheckMyVIN is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://checkmyvin.net
+CheckMyVIN provides a free AI-powered VIN decoder for US‑market vehicles, delivering official NHTSA specifications, open recall data, and detailed vehicle information from any 17‑character VIN. The service is worldwide, offers printable reports, and includes optional paid briefings for deeper recall interpretation, while keeping core safety‑critical data freely accessible without sign‑up or email gating.
+
+**Areas:** Company · VIN · Automotive · NHTSA · Free
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://checkmyvin.net)
+- [Documentation](https://checkmyvin.net/docs/mcp)
+- [API reference](https://checkmyvin.net/docs/api)
+- [Pricing](https://checkmyvin.net/pricing)
+- [Terms of service](https://checkmyvin.net/legal/terms)
+- [Privacy policy](https://checkmyvin.net/legal/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/checkmyvin-net/](https://apis.io/providers/checkmyvin-net/).
